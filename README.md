@@ -1,2 +1,2 @@
 # getdotnet
-Website for downloading .NET.
+Website for downloading Microsoft .NET Framework.
